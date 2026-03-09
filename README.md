@@ -1,2 +1,2 @@
 # Maritime-Fleet-Selection-and-Carbon-Cost-Optimisation-NUS-Maritime-Hackathon-2026
-Built a data-driven framework for selecting bunker fuel transport vessels by analysing trade-offs across safety, emissions, carbon costs, and operational risk using AIS and vessel-spec data.
+This project develops a data-driven framework for selecting vessels for bunker fuel transport from Singapore to Australia. Using AIS and vessel-specification data, it evaluates trade-offs across safety, sustainability, carbon cost, and operational risk. The analysis supports fleet selection under tighter safety constraints through emissions modelling, cost estimation, and sensitivity analysis.
