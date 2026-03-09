@@ -1,0 +1,12 @@
+﻿Header Name,Data Type,Units,Submission
+team_name,String,-,AquaVision AI
+category,String,-,A
+report_file_name,String,-,MaritimeHackathon2026_CasePaper_AquaVision AI
+sum_of_fleet_deadweight,Float,tonnes,4577937
+total_cost_of_fleet,Float,dollars,20894362.60
+average_fleet_safety_score,Float,-,3.05
+no_of_unique_main_engine_fuel_types_in_fleet,Integer,-,8
+sensitivity_analysis_performance,String,Yes/No,Yes
+size_of_fleet_count,Integer,-,22
+total_emission_CO2_eq,Float,tonnes,14890.374
+total_fuel_consumption,Float,tonnes,5134.040
